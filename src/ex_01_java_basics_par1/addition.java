@@ -1,3 +1,5 @@
+package ex_01_java_basics_par1;
+
 import java.util.Scanner;
 
 public class addition {
