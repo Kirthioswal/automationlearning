@@ -2,7 +2,7 @@ package Java_conditional_statements;
 
 import java.util.Scanner;
 
-public class Triangle_classifier {
+public class If_else_Triangle_classifier {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter side 1 :");
